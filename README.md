@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenzokaz
 - 👀 I’m interested in enlightenment
-- 🌱 I’m currently learning Computer Science(Java)
+- 🌱 I’m currently pursuing my bachelor's degree in Computer Science
 - 💞️ I’m looking to collaborate on different major projects
 - 📫 How to reach me @ kazurakenzo@gmail.com
 
